@@ -1,0 +1,20 @@
+.left{
+    position: absolute;
+    top:50%;
+    left:-5px;
+    }
+    .right{
+      position: absolute;
+      top:50%;
+      right:-2px;
+    }
+    .users-sec{
+      position: relative;
+    
+    }
+
+    
+ .footer a{
+   color:white;
+   text-decoration: none;
+ }
